@@ -1,173 +1,230 @@
-# Hey, I'm Fares 👋
-
-### `Computer Science Student | Developer | Designer`
+# `FERES // SYSTEM ONLINE`
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Building+things+with+code+%26+creativity;Exploring+software%2C+security+%26+design;Turning+ideas+into+digital+experiences." alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=2500&pause=700&color=00F7FF&center=true&vCenter=true&width=800&lines=COMPUTER+SCIENCE+STUDENT;DEVELOPER+%2F%2F+DESIGNER;CODE+%2B+CREATIVITY+%2B+EXPERIMENTATION;WELCOME+TO+MY+DIGITAL+SPACE." alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=feress-klaii&style=flat-square&color=grey" alt="Profile views" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:050505,50:001B22,100:050505&height=2&section=header" width="90%" />
 </p>
-
----
-
-## `> whoami`
-
-I'm **Fares**, a Computer Science student at **Faculté des Sciences de Monastir**, currently studying **Software Engineering & Computer Science**.
-
-I'm interested in the intersection between **technology and creativity** — writing software, exploring cybersecurity, experimenting with interfaces, and designing visual experiences.
-
-I like understanding how things work, breaking them apart, and then finding better ways to build them.
 
 ```text
-┌──────────────────────────────────────────────┐
-│                                              │
-│   CODE        DESIGN        SECURITY         │
-│     ╲            │             ╱             │
-│      ╲           │            ╱              │
-│       ╲          │           ╱               │
-│        └────── CURIOSITY ───┘                │
-│                                              │
-└──────────────────────────────────────────────┘
+╔══════════════════════════════════════════════════════════════════════╗
+║                                                                      ║
+║   ███████╗███████╗██████╗ ███████╗███████╗                         ║
+║   ██╔════╝██╔════╝██╔══██╗██╔════╝██╔════╝                         ║
+║   █████╗  █████╗  ██████╔╝█████╗  ███████╗                         ║
+║   ██╔══╝  ██╔══╝  ██╔══██╗██╔══╝  ╚════██║                         ║
+║   ██║     ███████╗██║  ██║███████╗███████║                         ║
+║   ╚═╝     ╚══════╝╚═╝  ╚═╝╚══════╝╚══════╝                         ║
+║                                                                      ║
+║              [ SYSTEM STATUS : ONLINE ]                             ║
+║              [ USER : FERES ]                                       ║
+║              [ MODE : BUILD / CREATE / EXPLORE ]                   ║
+║                                                                      ║
+╚══════════════════════════════════════════════════════════════════════╝
 ```
 
 ---
 
-## `> tech_stack`
+## `01 // IDENTITY`
 
-### Languages
+```bash
+$ whoami
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,java" />
-</p>
-
-### Development
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react,fastapi,html,css,js,vite" />
-</p>
-
-### Tools & Environment
-
-<p>
-  <img src="https://skillicons.dev/icons?i=linux,git,github,vscode" />
-</p>
-
-I'm also interested in **Linux, networking, cybersecurity, APIs, frontend development, and software architecture**.
-
----
-
-## `> creative_side`
-
-Code isn't the only way I like to build things.
-
-I'm also a **graphic designer**, working with:
-
-* Visual identities & branding
-* Posters & social media graphics
-* Album covers
-* Manga-inspired artwork
-* Logo design
-* Photo manipulation
-* Experimental digital compositions
-
-I enjoy mixing **technical thinking with visual experimentation** — whether that's building an interface or designing something from scratch.
-
-### `design // code`
-
-```text
-             LOGIC
-               │
-               ▼
-        ┌───────────────┐
-        │   DEVELOPER   │
-        └───────┬───────┘
-                │
-                │
-        ┌───────▼───────┐
-        │    CREATIVE   │
-        └───────┬───────┘
-                │
-                ▼
-             DESIGN
+> Fares
+> Computer Science Student | Developer | Designer
+> Faculté des Sciences de Monastir
+> Software Engineering & Computer Science
 ```
 
-🎨 **Graphic Design Portfolio**
-→ [feres-portfolio.netlify.app](https://feres-portfolio.netlify.app/)
+I'm a **Computer Science student** interested in building things that sit somewhere between **engineering and creativity**.
+
+I work with code, interfaces, systems and visual design — constantly experimenting with new technologies and different ways of turning ideas into something tangible.
+
+```text
+        ┌───────────────────────────────────────────────┐
+        │                                               │
+        │        CODE        DESIGN        SYSTEMS       │
+        │          ╲           │            ╱           │
+        │           ╲          │           ╱            │
+        │            ╲         │          ╱             │
+        │             ╲        │         ╱              │
+        │              └─── CURIOSITY ──┘               │
+        │                                               │
+        └───────────────────────────────────────────────┘
+```
 
 ---
 
-## `> currently`
+## `02 // LOADOUT`
+
+### `LANGUAGES`
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,c,cpp,java" />
+</p>
+
+### `WEB // DEVELOPMENT`
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,fastapi,html,css,js,vite" />
+</p>
+
+### `SYSTEM // TOOLS`
+
+<p>
+<img src="https://skillicons.dev/icons?i=linux,git,github,vscode" />
+</p>
+
+```text
+┌─────────────────────────────────────────────────────────┐
+│  PYTHON      ████████████████████░░░░                  │
+│  C / C++     ██████████████████░░░░░                  │
+│  JAVA        ███████████████░░░░░░░                   │
+│  REACT       █████████████████░░░░░                   │
+│  LINUX       ██████████████████░░░░░                  │
+│  GIT         ███████████████████░░░░                  │
+└─────────────────────────────────────────────────────────┘
+```
+
+---
+
+## `03 // CURRENT DIRECTIVES`
 
 ```yaml
-education:
+SYSTEM:
   university: "Faculté des Sciences de Monastir"
   field: "Software Engineering & Computer Science"
 
-interests:
+PRIMARY_INTERESTS:
   - Software Development
   - Cybersecurity
   - Linux
   - Web Development
+  - Networking
   - Graphic Design
   - Creative Technology
 
-learning:
-  - Advanced Software Engineering
-  - Cybersecurity
-  - Full-Stack Development
-  - System & Network Fundamentals
+OBJECTIVE:
+  "Keep learning. Keep building. Keep experimenting."
 ```
 
 ---
 
-## `> philosophy`
+## `04 // CREATIVE MODULE`
 
-> **"Build with logic. Design with intention."**
+```text
+┌─────────────────────────────────────────────────────┐
+│                                                     │
+│                CREATIVE_MODE.EXE                    │
+│                                                     │
+│       [ BRANDING ]     [ POSTERS ]                  │
+│       [ ALBUM ART ]    [ LOGOS ]                    │
+│       [ PHOTO EDIT ]   [ DIGITAL ART ]              │
+│       [ EXPERIMENTS ]  [ VISUAL SYSTEMS ]           │
+│                                                     │
+│                  STATUS : ACTIVE                    │
+│                                                     │
+└─────────────────────────────────────────────────────┘
+```
 
-I don't think development and design have to live in separate worlds.
+Outside of programming, I work on **graphic design and visual experimentation**.
 
-Good software should work well.
+I enjoy creating:
 
-Good design should communicate well.
+* ◈ Visual identities & branding
+* ◈ Posters
+* ◈ Album covers
+* ◈ Logo systems
+* ◈ Manga-inspired artwork
+* ◈ Photo manipulation
+* ◈ Experimental compositions
 
-The interesting part is where the two meet.
+For me, design is another way of solving problems — just with a different language.
 
----
-
-## `> connect`
+### `ACCESS // DESIGN ARCHIVE`
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/fares-kla%C3%AF-2a916a38/">
-    <img src="https://img.shields.io/badge/LinkedIn-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=000000" />
-  </a>
   <a href="https://feres-portfolio.netlify.app/">
-    <img src="https://img.shields.io/badge/Portfolio-FFFFFF?style=for-the-badge&logo=vercel&logoColor=000000" />
+    <img src="https://img.shields.io/badge/%E2%96%B6_OPEN_PORTFOLIO-00F7FF?style=for-the-badge&labelColor=050505&color=00F7FF" />
   </a>
 </p>
 
 ---
 
+## `05 // MINDSET`
+
+```text
+                     ┌─────────────┐
+                     │    IDEA     │
+                     └──────┬──────┘
+                            │
+                            ▼
+                     ┌─────────────┐
+                     │   EXPLORE   │
+                     └──────┬──────┘
+                            │
+                            ▼
+                     ┌─────────────┐
+                     │    BUILD    │
+                     └──────┬──────┘
+                            │
+                            ▼
+                     ┌─────────────┐
+                     │   REFINE    │
+                     └──────┬──────┘
+                            │
+                            ▼
+                     ┌─────────────┐
+                     │   REPEAT    │
+                     └─────────────┘
+```
+
+> `BUILD WITH LOGIC. CREATE WITH INTENTION.`
+
+I don't see development and design as separate worlds.
+
+**Good software solves problems.
+Good design communicates solutions.
+Great work does both.**
+
+---
+
+## `06 // NETWORK`
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=footer" />
+
+<a href="https://www.linkedin.com/in/fares-kla%C3%AF-2a916a38/">
+<img src="https://img.shields.io/badge/LINKEDIN-00F7FF?style=for-the-badge&logo=linkedin&logoColor=000000&labelColor=050505" />
+</a>
+
+<a href="https://feres-portfolio.netlify.app/">
+<img src="https://img.shields.io/badge/DESIGN_ARCHIVE-00F7FF?style=for-the-badge&logo=googlechrome&logoColor=000000&labelColor=050505" />
+</a>
+
+</p>
+
+```text
+╔══════════════════════════════════════════════════════════╗
+║                                                          ║
+║   CONNECTION ESTABLISHED                                ║
+║                                                          ║
+║   LINKEDIN     ::  ACTIVE                                ║
+║   PORTFOLIO    ::  ONLINE                                ║
+║   GITHUB       ::  YOU ARE HERE                          ║
+║                                                          ║
+║   [ TRANSMISSION COMPLETE ]                              ║
+║                                                          ║
+╚══════════════════════════════════════════════════════════╝
+```
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:00333A,100:00F7FF&height=120&section=footer" />
 </p>
 
 <p align="center">
-  <sub>Designed with curiosity • Built with code • Always experimenting</sub>
+  <code>FERES // END OF TRANSMISSION_</code>
 </p>
-
-<!--
-**feress-klaii/feress-klaii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
