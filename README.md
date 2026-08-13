@@ -4,6 +4,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=2500&pause=700&color=00F7FF&center=true&vCenter=true&width=800&lines=COMPUTER+SCIENCE+STUDENT;DEVELOPER+%2F%2F+DESIGNER;CODE+%2B+CREATIVITY+%2B+EXPERIMENTATION;WELCOME+TO+MY+DIGITAL+SPACE." alt="Typing SVG" />
 </p>
 
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:050505,50:001B22,100:050505&height=2&section=header" width="90%" />
 </p>
